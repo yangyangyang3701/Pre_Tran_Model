@@ -1,5 +1,5 @@
 # Introduction
-I try to use pretrained chinese model, such as bert-base-chinses , XLNet-mid and XLNet-base and so on, to solve some NLP task.
+I try to use pretrained chinese model, such as bert-base-chinses , XLNet-mid and XLNet-base and so on, to solve some NLP tasks.
  
 In this task, I put the model into a document classification task, which was got in a online contest.
   
